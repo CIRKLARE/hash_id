@@ -7,8 +7,9 @@ COMMAND I used to find it
 
 locate hash-id | grep .py
 
-/usr/share/doc/hash-identifier/copyright
-/usr/share/hash-identifier/hash-id.py
+=> /usr/share/doc/hash-identifier/copyright
+
+=> /usr/share/hash-identifier/hash-id.py
 
 ------------------------------
 Path:
